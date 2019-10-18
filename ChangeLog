@@ -1,4 +1,12 @@
+protobuf-c (1.3.3)
+
+  [ Robert Edmonds ]
+  * Release 1.3.3.
+
+  * Fix build failure on protobuf 2.x (#398).
+
 protobuf-c (1.3.2)
+
   [ Robert Edmonds ]
   * Release 1.3.2.
 
